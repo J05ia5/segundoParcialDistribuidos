@@ -1,0 +1,24 @@
+{
+  "name": "josias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^17.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^7.8.0",
+    "mongoose": "^9.11.4",
+    "mysql2": "^3.24.6",
+    "sequelize": "^6.37.8"
+  }
+}
